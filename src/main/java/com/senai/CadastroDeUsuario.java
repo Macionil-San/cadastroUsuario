@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class desafio03 {
+public class CadastroDeUsuario {
     static Scanner scanner = new Scanner(System.in);
     static String[] cabecalho = {"id", "nome", "telefone", "email"};
     static String[][] matrizCadastro = {{"", ""}};
