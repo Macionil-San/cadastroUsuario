@@ -14,7 +14,7 @@ public class desafio03 {
         matrizCadastro[0] = cabecalho;
 
         String menu = """
-                ________________________________________________
+                _________________________________________________
                 |  ESCOLHA UMA OPÇÃO:                           |
                 |       1 - EXIBIR CADASTRO COMPLETO            |
                 |       2 - INSERIRIR NOVO USUÁRIO              |
